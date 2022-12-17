@@ -1,4 +1,4 @@
-package com.priyajit.concurrency.thread;
+package com.priyajit.concurrency.thread.creation;
 
 public class MyThread extends  Thread{
     @Override

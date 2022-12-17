@@ -1,6 +1,6 @@
-package com.priyajit.concurrency.thread;
+package com.priyajit.concurrency.thread.creation;
 
-public class ThreadExample {
+public class Driver {
 
     public static void main(String[] args){
         // creating new thread using Thread class
